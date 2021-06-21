@@ -25,3 +25,5 @@ weatherForm.addEventListener('submit', (e) => {
                 })
             })
 })
+
+console.log('Checking commit');
